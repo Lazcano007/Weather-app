@@ -1,0 +1,7 @@
+C:\Users\pedro\Desktop\SKOLAN PROG 1\Väder_all_klass_samlad_i_ett\Väder_all_klass_samlad_i_ett\bin\Debug\Väder_all_klass_samlad_i_ett.exe.config
+C:\Users\pedro\Desktop\SKOLAN PROG 1\Väder_all_klass_samlad_i_ett\Väder_all_klass_samlad_i_ett\bin\Debug\Väder_all_klass_samlad_i_ett.exe
+C:\Users\pedro\Desktop\SKOLAN PROG 1\Väder_all_klass_samlad_i_ett\Väder_all_klass_samlad_i_ett\bin\Debug\Väder_all_klass_samlad_i_ett.pdb
+C:\Users\pedro\Desktop\SKOLAN PROG 1\Väder_all_klass_samlad_i_ett\Väder_all_klass_samlad_i_ett\obj\Debug\Väder_all_klass_samlad_i_ett.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\SKOLAN PROG 1\Väder_all_klass_samlad_i_ett\Väder_all_klass_samlad_i_ett\obj\Debug\Väder_all_klass_samlad_i_ett.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\SKOLAN PROG 1\Väder_all_klass_samlad_i_ett\Väder_all_klass_samlad_i_ett\obj\Debug\Väder_all_klass_samlad_i_ett.exe
+C:\Users\pedro\Desktop\SKOLAN PROG 1\Väder_all_klass_samlad_i_ett\Väder_all_klass_samlad_i_ett\obj\Debug\Väder_all_klass_samlad_i_ett.pdb

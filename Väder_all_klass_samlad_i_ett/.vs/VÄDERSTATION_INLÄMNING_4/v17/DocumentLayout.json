@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\Klara inl\u00E4mingar\\INL\u00C4MNING 4\\V\u00E4der_all_klass_samlad_i_ett\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC057D6-DD80-4641-B41B-10538E1FBCAF}|V\u00E4der_all_klass_samlad_i_ett\\V\u00C4DERSTATION_INL\u00C4MNING_4.csproj|c:\\users\\pedro\\desktop\\klara inl\u00E4mingar\\inl\u00E4mning 4\\v\u00E4der_all_klass_samlad_i_ett\\v\u00E4der_all_klass_samlad_i_ett\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC057D6-DD80-4641-B41B-10538E1FBCAF}|V\u00E4der_all_klass_samlad_i_ett\\V\u00C4DERSTATION_INL\u00C4MNING_4.csproj|solutionrelative:v\u00E4der_all_klass_samlad_i_ett\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC057D6-DD80-4641-B41B-10538E1FBCAF}|V\u00E4der_all_klass_samlad_i_ett\\V\u00C4DERSTATION_INL\u00C4MNING_4.csproj|C:\\Users\\pedro\\Desktop\\Klara inl\u00E4mingar\\INL\u00C4MNING 4\\V\u00E4der_all_klass_samlad_i_ett\\v\u00E4der_all_klass_samlad_i_ett\\stad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC057D6-DD80-4641-B41B-10538E1FBCAF}|V\u00E4der_all_klass_samlad_i_ett\\V\u00C4DERSTATION_INL\u00C4MNING_4.csproj|solutionrelative:v\u00E4der_all_klass_samlad_i_ett\\stad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Klara inl\u00E4mingar\\INL\u00C4MNING 4\\V\u00E4der_all_klass_samlad_i_ett\\V\u00E4der_all_klass_samlad_i_ett\\Program.cs",
+              "RelativeDocumentMoniker": "V\u00E4der_all_klass_samlad_i_ett\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Klara inl\u00E4mingar\\INL\u00C4MNING 4\\V\u00E4der_all_klass_samlad_i_ett\\V\u00E4der_all_klass_samlad_i_ett\\Program.cs",
+              "RelativeToolTip": "V\u00E4der_all_klass_samlad_i_ett\\Program.cs",
+              "ViewState": "AgIAADoAAAAAlJmZmZnpvzoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T09:02:21.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stad.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Klara inl\u00E4mingar\\INL\u00C4MNING 4\\V\u00E4der_all_klass_samlad_i_ett\\V\u00E4der_all_klass_samlad_i_ett\\Stad.cs",
+              "RelativeDocumentMoniker": "V\u00E4der_all_klass_samlad_i_ett\\Stad.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Klara inl\u00E4mingar\\INL\u00C4MNING 4\\V\u00E4der_all_klass_samlad_i_ett\\V\u00E4der_all_klass_samlad_i_ett\\Stad.cs",
+              "RelativeToolTip": "V\u00E4der_all_klass_samlad_i_ett\\Stad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T09:02:21.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
